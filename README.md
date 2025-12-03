@@ -17,8 +17,8 @@ Hi, my name is Alas - 20 y/o software-engeneer student located somewhere in Russ
 
 ## 📖 My contacts 📬:
 
-Discord: zero.devision
-Telegram channel: t.me/alas_voir (RU)
+- Discord: zero.devision
+- Telegram channel: t.me/alas_voir (RU)
 
 <!--
 **alas-voir/alas-voir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
